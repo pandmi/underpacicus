@@ -8,7 +8,7 @@ This program:
 
 - takes input about under- and outpacing campaigns from Looker table via Looker API
 - filters campaigns on the given criteria's (advertiser name/ids, volume of underpacing)
-- gets data about campaign and strategy set up via T1 API (https://apidocs.mediamath.com/)
+- gets data about campaign and strategy set up from T1 API (https://apidocs.mediamath.com/)
 - compares the given settings with recommended one and shows the way ho 
 - creates HTML (code-free) file and send it via e-mail to the client
 - ads the sent recommendations regarding problematic campaigns (with under- and outpacing) to SQLite database for past mail analysis
@@ -26,13 +26,10 @@ To make this program run:
 # output
 
 The result of script execution is a mail:
-
 ![](t1_mail.png)
 
 - with html-file as output, For confidential reasons some parts of the output were blurred.
-
 ![](underpacicus_output.png)
-
 In the same folder should be placed create SQLite database. The past mail analysis might help you to identify common problems and most
 
 # improvement to be made
