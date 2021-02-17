@@ -26,11 +26,14 @@ To make this program run:
 # output
 
 The result of script execution is a mail:
+
 ![](t1_mail.png)
 
 - with html-file as output, For confidential reasons some parts of the output were blurred.
+- 
 ![](underpacicus_output.png)
-In the same folder should be placed create SQLite database. The past mail analysis might help you to identify common problems and most
+
+In the same folder should be placed create SQLite database. The past mail analysis might help to identify common problems.
 
 # improvement to be made
 
