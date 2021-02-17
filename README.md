@@ -27,7 +27,7 @@ To make this program run:
 
 The result of script execution is a mail:
 
-![](images/image_1.img)
+![](t1_mail.png)
 
 - with html-file as output, For confidential reasons some parts of the output were blurred.
 
@@ -37,7 +37,7 @@ In the same folder should be placed create SQLite database. The past mail analys
 
 # improvement to be made
 
-- filter function on every tables
+- filter function on every table
 - deployment as stand alone application
 - remove looker api dependencies in order to get analysis based on only T1 API data 
 - diverse output format, as .xls, .pdf
