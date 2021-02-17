@@ -19,9 +19,9 @@ This program:
 
 To make this program run:
 
-- in the script **Campaigns_monitoring_report.ipynb** replace 'xxx' placeholders by your Looker API and T1 API credentials in the beginning, adjust mail addresses 
+- in the script **Campaigns_monitoring_report.ipynb** replace 'xxx' placeholders by your Looker API and T1 API credentials in the beginning, adjust mail addresses at the end 
 - install the custom created 'scripticus'-package via git:  !pip install --upgrade git+https://github.com/pandmi/scripticus.git
--  run the script, aprox. execution time 5-15 mins, depends on the account size 
+- run the script, aprox. execution time 5-15 mins, depends on the account size 
 
 # output
 
