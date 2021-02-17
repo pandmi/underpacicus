@@ -31,7 +31,7 @@ The result of script execution is a mail:
 
 - with html-file as output, For confidential reasons some parts of the output were blurred.
 
-![](images/image_1.img)
+![](underpacicus_output.png)
 
 In the same folder should be placed create SQLite database. The past mail analysis might help you to identify common problems and most
 
