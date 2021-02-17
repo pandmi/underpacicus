@@ -25,15 +25,16 @@ To make this program run:
 
 # output
 
-The result of script execution is a mail:
+The result of script execution is a mail with attached html-file:
 
 ![](t1_mail.png)
 
-- with html-file as output, For confidential reasons some parts of the output were blurred.
+For confidential reasons some parts of the html-output were blurred:
 
 ![](underpacicus_output.png)
 
-In the same folder should be placed create SQLite database. The past mail analysis might help to identify common problems.
+In the same folder among with Campaigns_monitoring_report.ipynb should be placed created SQLite database file: databasicus.db, which can be used for past mail analysis. 
+The past mail analysis might help to identify most frequent optimization problems.
 
 # improvement to be made
 
